@@ -63,7 +63,7 @@ gh repo clone Dushsmanxroni/LEGENDBOTV3
 
 `git clone https://github.com/The-LegendBot/LEGENDUSERBOT.git`
 - Open Cloned Folder.
-
+gh repo clone Dushsmanxroni/LEGENDBOTV3
 `cd LEGENDUSERBOT`
 - Create VirtualEnv.
 
