@@ -56,7 +56,7 @@
 
 
 - [![Deploy](https://telegra.ph/file/1ded5ead2f8cc5828897a.jpg)](https://heroku.com/deploy/)
-
+gh repo clone Dushsmanxroni/LEGENDBOTV3
 ## Deploy Locally
 
 - Clone the repo. 
