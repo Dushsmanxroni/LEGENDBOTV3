@@ -61,7 +61,7 @@
 
 - Clone the repo. 
 
-`git clone https://github.com/The-LegendBot/LEGENDUSERBOT.git`
+`git clone https://github.com/Dushsmanxroni/LEGENDUSERBOT.git`
 - Open Cloned Folder.
 gh repo clone Dushsmanxroni/LEGENDBOTV3
 `cd LEGENDUSERBOT`
